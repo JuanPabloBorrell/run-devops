@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "21Fs7o8duzCJLCVUR1L2sbLWJcgc5Axio30S0OjbUc4Kavc3aSHCOd1nVJq7vd+96Yoai4fNhDars5XPhn8N0A==",
+  "dgSpecHash": "9eWFGiy6eZHjeyNfKSKX29lVxZt/MSiNInsRqiuBTss4aU3DYY2YJRM2jlliPu4J1Hn2BX7gBAKDIcbraGzCaw==",
   "success": true,
   "projectFilePath": "C:\\Users\\JOB\\Desktop\\Deploying .Net Microservices with K8s, AKS and Azure DevOps\\run-devops\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\JOB\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
   "logs": []
 }
