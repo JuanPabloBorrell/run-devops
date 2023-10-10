@@ -6,6 +6,7 @@ using Microsoft.Extensions.Hosting;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
 using System.Threading.Tasks;
 
 namespace Shopping.Client
@@ -22,7 +23,16 @@ namespace Shopping.Client
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddHttpClient("ShoppingAPIClient", client =>
+            {
+                client.BaseAddress = new Uri("http://localhost:5000/"); // Shopping.API url
+            });
             services.AddControllersWithViews();
+        }
+
+        private void ShoppingAPIClient(IServiceProvider arg1, HttpClient arg2)
+        {
+            throw new NotImplementedException();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
