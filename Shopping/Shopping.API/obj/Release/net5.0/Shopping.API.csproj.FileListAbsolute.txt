@@ -27,3 +27,16 @@ C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps
 C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps\run-devops\Shopping\Shopping.API\obj\Release\net5.0\ref\Shopping.API.dll
 C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps\run-devops\Shopping\Shopping.API\obj\Release\net5.0\Shopping.API.pdb
 C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps\run-devops\Shopping\Shopping.API\obj\Release\net5.0\Shopping.API.genruntimeconfig.cache
+C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps\run-devops\Shopping\Shopping.API\bin\Release\net5.0\AWSSDK.Core.dll
+C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps\run-devops\Shopping\Shopping.API\bin\Release\net5.0\AWSSDK.SecurityToken.dll
+C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps\run-devops\Shopping\Shopping.API\bin\Release\net5.0\DnsClient.dll
+C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps\run-devops\Shopping\Shopping.API\bin\Release\net5.0\MongoDB.Bson.dll
+C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps\run-devops\Shopping\Shopping.API\bin\Release\net5.0\MongoDB.Driver.dll
+C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps\run-devops\Shopping\Shopping.API\bin\Release\net5.0\MongoDB.Driver.Core.dll
+C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps\run-devops\Shopping\Shopping.API\bin\Release\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps\run-devops\Shopping\Shopping.API\bin\Release\net5.0\SharpCompress.dll
+C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps\run-devops\Shopping\Shopping.API\bin\Release\net5.0\Snappier.dll
+C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps\run-devops\Shopping\Shopping.API\bin\Release\net5.0\ZstdSharp.dll
+C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps\run-devops\Shopping\Shopping.API\bin\Release\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps\run-devops\Shopping\Shopping.API\bin\Release\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps\run-devops\Shopping\Shopping.API\bin\Release\net5.0\runtimes\win\native\mongocrypt.dll
