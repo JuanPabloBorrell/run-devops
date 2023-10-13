@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "llbex9rGPAmwAst4ubSkmVQlqLiqJAZ4P3nVRRcYihKdRDJ34OpaeXUNpiZ+dva8JFw1HyVfcquDmgherLTdfQ==",
+  "dgSpecHash": "NA4s+bqd/ZtSQVnAYvItmR5t22K3FwCxbPBGvuuTcgQk930ed+0sYn1VJdDlT685DlpQesZgDjHxTjy/A9fk2g==",
   "success": true,
   "projectFilePath": "C:\\Users\\JOB\\Desktop\\Deploying .Net Microservices with K8s, AKS and Azure DevOps\\run-devops\\Shopping\\Shopping.API\\Shopping.API.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\JOB\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\JOB\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\JOB\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\JOB\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\JOB\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\JOB\\.nuget\\packages\\mongodb.bson\\2.22.0\\mongodb.bson.2.22.0.nupkg.sha512",
     "C:\\Users\\JOB\\.nuget\\packages\\mongodb.driver\\2.22.0\\mongodb.driver.2.22.0.nupkg.sha512",

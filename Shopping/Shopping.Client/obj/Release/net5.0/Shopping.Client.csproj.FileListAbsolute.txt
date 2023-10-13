@@ -38,3 +38,4 @@ C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps
 C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps\run-devops\Shopping\Shopping.Client\obj\Release\net5.0\Shopping.Client.genruntimeconfig.cache
 C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps\run-devops\Shopping\Shopping.Client\obj\Release\net5.0\Shopping.Client.csproj.CopyComplete
 C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps\run-devops\Shopping\Shopping.Client\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\JOB\Desktop\Deploying .Net Microservices with K8s, AKS and Azure DevOps\run-devops\Shopping\Shopping.Client\obj\Release\net5.0\Shopping.Client.csproj.AssemblyReference.cache
