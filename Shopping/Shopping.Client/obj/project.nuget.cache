@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "469ZAy2/Mpaf9Ja+I/HSWd5Ku7N4gWNJ7QAgiPGAcWtRxhgvrhgw/jZIeWX+IAEz18+KRdi6VXGqimlGLyPXhw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\JOB\\Desktop\\Deploying .Net Microservices with K8s, AKS and Azure DevOps\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.VisualStudio.Azure.Containers.Tools.Targets. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
