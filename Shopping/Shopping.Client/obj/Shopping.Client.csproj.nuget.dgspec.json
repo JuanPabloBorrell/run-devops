@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\JOB\\Desktop\\Deploying .Net Microservices with K8s, AKS and Azure DevOps\\Shopping\\Shopping.Client\\Shopping.Client.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\JOB\\Desktop\\Deploying .Net Microservices with K8s, AKS and Azure DevOps\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
         "packagesPath": "C:\\Users\\JOB\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\JOB\\Desktop\\Deploying .Net Microservices with K8s, AKS and Azure DevOps\\Shopping\\Shopping.Client\\obj\\",
+=======
+    "C:\\Users\\JOB\\Desktop\\Deploying .Net Microservices with K8s, AKS and Azure DevOps\\run-devops\\Shopping\\Shopping.Client\\Shopping.Client.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JOB\\Desktop\\Deploying .Net Microservices with K8s, AKS and Azure DevOps\\run-devops\\Shopping\\Shopping.Client\\Shopping.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JOB\\Desktop\\Deploying .Net Microservices with K8s, AKS and Azure DevOps\\run-devops\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+        "projectName": "Shopping.Client",
+        "projectPath": "C:\\Users\\JOB\\Desktop\\Deploying .Net Microservices with K8s, AKS and Azure DevOps\\run-devops\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+        "packagesPath": "C:\\Users\\JOB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JOB\\Desktop\\Deploying .Net Microservices with K8s, AKS and Azure DevOps\\run-devops\\Shopping\\Shopping.Client\\obj\\",
+>>>>>>> a361a80340aac6186c0d0c8cadcd7edaed324aba
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JOB\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +35,12 @@
           "net5.0"
         ],
         "sources": {
+<<<<<<< HEAD
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+=======
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+>>>>>>> a361a80340aac6186c0d0c8cadcd7edaed324aba
         },
         "frameworks": {
           "net5.0": {
@@ -41,7 +60,15 @@
           "dependencies": {
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
+<<<<<<< HEAD
               "version": "[1.11.1, )"
+=======
+              "version": "[1.19.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+>>>>>>> a361a80340aac6186c0d0c8cadcd7edaed324aba
             }
           },
           "imports": [

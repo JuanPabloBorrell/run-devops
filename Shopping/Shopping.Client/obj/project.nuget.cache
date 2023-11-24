@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "469ZAy2/Mpaf9Ja+I/HSWd5Ku7N4gWNJ7QAgiPGAcWtRxhgvrhgw/jZIeWX+IAEz18+KRdi6VXGqimlGLyPXhw==",
   "success": false,
   "projectFilePath": "C:\\Users\\JOB\\Desktop\\Deploying .Net Microservices with K8s, AKS and Azure DevOps\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
@@ -15,4 +16,14 @@
       ]
     }
   ]
+=======
+  "dgSpecHash": "ADlIdRHWDRbszauewktL4E2rCtURp0NWADHspSQcaxlzRnz4MLW5YuIp77vPJDaI7gtxbUSaQno50/gUTbLMPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JOB\\Desktop\\Deploying .Net Microservices with K8s, AKS and Azure DevOps\\run-devops\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JOB\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\JOB\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+>>>>>>> a361a80340aac6186c0d0c8cadcd7edaed324aba
 }

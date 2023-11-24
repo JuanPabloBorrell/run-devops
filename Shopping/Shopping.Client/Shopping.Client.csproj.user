@@ -6,4 +6,10 @@
   <PropertyGroup>
     <ActiveDebugProfile>Shopping.Client</ActiveDebugProfile>
   </PropertyGroup>
+<<<<<<< HEAD
+=======
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+>>>>>>> a361a80340aac6186c0d0c8cadcd7edaed324aba
 </Project>
