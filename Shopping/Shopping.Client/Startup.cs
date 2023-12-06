@@ -6,10 +6,7 @@ using Microsoft.Extensions.Hosting;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-<<<<<<< HEAD
-=======
 using System.Net.Http;
->>>>>>> a361a80340aac6186c0d0c8cadcd7edaed324aba
 using System.Threading.Tasks;
 
 namespace Shopping.Client
@@ -26,9 +23,6 @@ namespace Shopping.Client
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-<<<<<<< HEAD
-            services.AddRazorPages();
-=======
             services.AddHttpClient("ShoppingAPIClient", client =>
             {
                 //client.BaseAddress = new Uri("http://localhost:5000/"); // Shopping.API url
@@ -40,7 +34,6 @@ namespace Shopping.Client
         private void ShoppingAPIClient(IServiceProvider arg1, HttpClient arg2)
         {
             throw new NotImplementedException();
->>>>>>> a361a80340aac6186c0d0c8cadcd7edaed324aba
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -52,14 +45,8 @@ namespace Shopping.Client
             }
             else
             {
-<<<<<<< HEAD
-                app.UseExceptionHandler("/Error");
-            }
-
-=======
                 app.UseExceptionHandler("/Home/Error");
             }
->>>>>>> a361a80340aac6186c0d0c8cadcd7edaed324aba
             app.UseStaticFiles();
 
             app.UseRouting();
@@ -68,13 +55,9 @@ namespace Shopping.Client
 
             app.UseEndpoints(endpoints =>
             {
-<<<<<<< HEAD
-                endpoints.MapRazorPages();
-=======
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
->>>>>>> a361a80340aac6186c0d0c8cadcd7edaed324aba
             });
         }
     }
