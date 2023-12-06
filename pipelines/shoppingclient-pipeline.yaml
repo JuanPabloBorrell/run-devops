@@ -20,11 +20,11 @@ variables:
   dockerRegistryServiceConnection: '33bad8c4-b945-4b40-82ed-c9f503b2f3c0'
   imageRepository: 'shoppingclient'
   containerRegistry: 'shoppingappjpb.azurecr.io'
-  dockerfilePath: 'Shopping/Shopping.Client/Dockerfile'
+  dockerfilePath: 'Shopping\Shopping.Client\Dockerfile'
   tag: '$(Build.BuildId)'
   imagePullSecret: 'shoppingappjpb53930f3e-auth'
 
-  # Agent VM image name.
+  # Agent VM image name
   vmImageName: 'ubuntu-latest'
 
 
